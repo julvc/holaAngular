@@ -6,5 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./empleado.component.css']
 })
 export class EmpleadoComponent {
+  nombre = "Julio";
+  apellido = "VC";
+  edad = 18;
+  //empresa = "New Company"
 
+  // SaveNameEmpresa(value:String){
+    
+  // }
 }
